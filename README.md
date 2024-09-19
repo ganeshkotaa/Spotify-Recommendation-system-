@@ -1,7 +1,5 @@
 #  Spotify Recommendation System project
 
-**Brief description.**
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
